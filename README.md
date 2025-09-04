@@ -1,4 +1,4 @@
-# ise-studio-2-ai-day-lab
+# MCP and A2A Upskilling
 
 This repository contains several small example projects used to explore MCP (Model Context Protocol) and Agent-to-Agent (A2A) interactions. The examples are intentionally simple so you can run and adapt them locally.
 
