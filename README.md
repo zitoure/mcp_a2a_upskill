@@ -7,7 +7,6 @@ Top-level folders of interest
 - `mcp_project/` – a minimal MCP example with a `research_server` and an interactive `mcp_chatbot` (connects to an MCP server over stdio).
 - `a2a_acp/` – an ACP (Agent-to-Agent) demo showing agents and a small MCP tool server. Includes `client.py`, `mcpserver.py`, several agents (`health_agent.py`, `hospital_agent_mcp.py`, `rag_agent.py`), and example data.
 - `a2a_http/` – a tiny HTTP-based A2A framework (Flask-based) in `a2a.py` with a small `A2AClient` to call other agents.
-- `a2a_example/` – other A2A examples (scripts to explore agent workflows).
 
 Quick setup
 
