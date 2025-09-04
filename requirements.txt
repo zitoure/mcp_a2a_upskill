@@ -1,0 +1,14 @@
+python-dotenv
+openai
+arxiv
+nest_asyncio
+mcp
+uvicorn
+acp-sdk
+colorama
+requests
+crewai
+crewai-tools
+langchain-openai
+smolagents
+flask
